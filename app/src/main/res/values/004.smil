@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<smil xmlns:epub="http://www.idpf.org/2007/ops" version="3.0" xmlns="http://www.w3.org/ns/SMIL">
+  <body>
+    <par id="id13g">
+      <!--   -->
+      <text src="../004.xhtml#empty" />
+      <audio clipBegin="20209ms" clipEnd="21289ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id13">
+      <!-- Donny -->
+      <text src="../004.xhtml#w13" />
+      <audio clipBegin="21289ms" clipEnd="21799ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id14">
+      <!-- veut -->
+      <text src="../004.xhtml#w14" />
+      <audio clipBegin="21799ms" clipEnd="21940ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id15">
+      <!-- montrer -->
+      <text src="../004.xhtml#w15" />
+      <audio clipBegin="21940ms" clipEnd="22289ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id16">
+      <!-- sa -->
+      <text src="../004.xhtml#w16" />
+      <audio clipBegin="22289ms" clipEnd="22440ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id17">
+      <!-- peinture -->
+      <text src="../004.xhtml#w17" />
+      <audio clipBegin="22440ms" clipEnd="22869ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id18">
+      <!-- à -->
+      <text src="../004.xhtml#w18" />
+      <audio clipBegin="22869ms" clipEnd="22940ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id19">
+      <!-- Doc. -->
+      <text src="../004.xhtml#w19" />
+      <audio clipBegin="22940ms" clipEnd="23420ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id20">
+      <!-- « Devine -->
+      <text src="../004.xhtml#w20" />
+      <audio clipBegin="24159ms" clipEnd="24520ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id21">
+      <!-- ce -->
+      <text src="../004.xhtml#w21" />
+      <audio clipBegin="24520ms" clipEnd="24669ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id22">
+      <!-- que -->
+      <text src="../004.xhtml#w22" />
+      <audio clipBegin="24669ms" clipEnd="24809ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id23">
+      <!-- c'est, -->
+      <text src="../004.xhtml#w23" />
+      <audio clipBegin="24809ms" clipEnd="25089ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id24">
+      <!-- Doc », -->
+      <text src="../004.xhtml#w24" />
+      <audio clipBegin="25089ms" clipEnd="25691ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id25">
+      <!-- dit-il -->
+      <text src="../004.xhtml#w25" />
+      <audio clipBegin="25691ms" clipEnd="26040ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id26">
+      <!-- à -->
+      <text src="../004.xhtml#w26" />
+      <audio clipBegin="26042ms" clipEnd="26129ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id27">
+      <!-- sa -->
+      <text src="../004.xhtml#w27" />
+      <audio clipBegin="26129ms" clipEnd="26259ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id28">
+      <!-- sœur.  -->
+      <text src="../004.xhtml#w28" />
+      <audio clipBegin="26259ms" clipEnd="26779ms" src="../audio/9781484736340.m4a" />
+    </par>
+    <par id="id28g">
+      <!--   -->
+      <text src="../004.xhtml#empty1" />
+      <audio clipBegin="26779ms" clipEnd="27299ms" src="../audio/9781484736340.m4a" />
+    </par>
+  </body>
+</smil>
