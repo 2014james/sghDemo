@@ -5,7 +5,10 @@ import android.content.res.Resources;
 import android.util.DisplayMetrics;
 import android.view.WindowManager;
 
-
+/**
+ * 设备密度工具
+ *
+ */
 public class DensityUtil {
 
 	private static final String TAG = "DensityUtil";
